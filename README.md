@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Angelica Noviana</h1>
 <h3 align="center">A Data Science Undergraduate Student at Institut Teknologi Sumatera</h3>
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.icegif.com%2Fcute-28%2F&psig=AOvVaw0AMfq2qg9ASto7-HyB9m3v&ust=1734361993998000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLD-moWIqooDFQAAAAAdAAAAABAW">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angelicanoviana&label=Profile%20views&color=0e75b6&style=flat" alt="angelicanoviana" /> </p>
 
