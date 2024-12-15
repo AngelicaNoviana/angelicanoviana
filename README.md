@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Angelica Noviana</h1>
 <h3 align="center">A Data Science Undergraduate Student at Institut Teknologi Sumatera</h3>
-<img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/2024/10/cute-icegif-2.gif">
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/happy-thanksgiving-week-happy-thanksgiving-thanksgiving-happy-thankgiving-happy-birthday-gif-3688240211858537014">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angelicanoviana&label=Profile%20views&color=0e75b6&style=flat" alt="angelicanoviana" /> </p>
 
